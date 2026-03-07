@@ -5,8 +5,8 @@
 // from Supabase → Project Settings → API
 // ============================================================
 
-const SUPABASE_URL = 'https://YOUR-PROJECT-ID.supabase.co';
-const SUPABASE_KEY = 'eyJ-YOUR-ANON-KEY-HERE';
+const SUPABASE_URL = 'https://wxytzvfhiwwxmjraiaav.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_3Sc8bbrE24itJ4HZBkihFA_UwbeBSEL';
 
 // ============================================================
 // Lightweight Supabase client
